@@ -1,0 +1,6 @@
+{
+  "name": "Massage XP",
+  "description": "Aplicativo gamificado e relaxante de massagem para casais e autocuidado com mapa corporal interativo, técnicas especiais, timer e sistema de XP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
